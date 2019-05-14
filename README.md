@@ -21,40 +21,42 @@ Built by:
 ### Code Samples
 ```markdown
 # Initializing Streams
-`_InitStream s1 as Synthesizer_`
+_`InitStream s1 as Synthesizer`_
 Intializes a stream of a Synthesizer instrument as any symbol, s1 in this case.
 
-`_InitStream s183 as Synthesizer_`
+_`InitStream s183 as Synthesizer`_
 Intializes a stream of a Synthesizer instrument as any symbol, s183 in this case.
 
 **Initializing an existing stream will empty that existing stream and render it empty.**
 
 # Adding Waves to Stream
 **The following line will only happen if a Stream has been initialized. Otherwise, this cannot occur.**
-1. `_As s1 setWave(Sine,600)_`
+1. _`As s1 setWave(Sine,600)`_
 In the s1 stream, creates a Sine wave with a frequency of 600.
 
-2. `_As s1 setWave(Sine)_`
+2. _`As s1 setWave(Sine)`_
 In the s1 stream, creates a Sine wave with a default frequency of 200.
 
-3. `_As s183 setWave(Saw)_`
+3. _`As s183 setWave(Saw)`_
 In the s183 stream, creates a Saw wave with a default frequency of 200.
 
-4. `_As s1 setWave(Square,250)_`
+4. _`As s1 setWave(Square,250)`_
 In the s1 stream, creates a Square wave with a frequency of 250.
 
 # Changing Frequencies of Waves
-1. `_As s1 setFrequency(100)_`
+1. _`As s1 setFrequency(100)`_
 In the s1 stream, frequencies are changed to 100 as parameters imply.
 
 # Playing Streams
-**If no streams have been initialized, this will return an exception. Streams must exist for this to work.**
-1. `_play(s1)_`
+**If no streams have been initialized, this will return an exception.**
+**Streams must exist for this to work.**
+1. _`play(s1)`_
 Plays the s1 symbol waves stream.
 
 #Pausing Streams
-**If no streams have been initialized, this will return an exception. Streams must exist for this to work.**
-1. `_pause(s183)_`
+**If no streams have been initialized, this will return an exception.**
+**Streams must exist for this to work.**
+1. _`pause(s183)`_
 Pauses the s1 symbol waves stream.
 ```
 
