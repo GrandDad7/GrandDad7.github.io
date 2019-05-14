@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to the Synth Programming Language Website!
 
-You can use the [editor on GitHub](https://github.com/GrandDad7/GrandDad7.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use find the link to GitHub Repository [here](https://github.com/GrandDad7/Synth-Programming-Language). This site is meant to explain the documentation of what our language does.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
