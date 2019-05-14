@@ -30,7 +30,8 @@ Intializes a stream of a Synthesizer instrument as any symbol, s183 in this case
 **Initializing an existing stream will empty that existing stream and render it empty.**
 
 # Adding Waves to Stream
-**The following line will only happen if a Stream has been initialized. Otherwise, this cannot occur.**
+**The following line will only happen if a Stream has been initialized.** 
+**Otherwise, this cannot occur.**
 1. _`As s1 setWave(Sine,600)`_
 In the s1 stream, creates a Sine wave with a frequency of 600.
 
