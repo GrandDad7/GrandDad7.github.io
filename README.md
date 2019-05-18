@@ -89,12 +89,9 @@ Pauses the s1 symbol waves stream.
 ## Conclusion
 <body>
 	<p>
-	Working together to form a project in a language that half of the group is not too skilled in was a challenge (to those not knowledgeable) but it was a feat nonetheless. We did choose C++ because all other projects would be implemented in languages that they are mostly familiar with, like Python (or even Scala in some cases as it seemed.) We had decided to not take the easy way out and challenge ourselves. 
+	Working together to form a project in a language that half of the group is not too skilled in was a challenge (to those not knowledgeable) but it was a feat nonetheless. We did choose C++ because all other projects would be implemented in languages that they are mostly familiar with, like Python (or even Scala in some cases as it seemed.) We had decided to not take the easy way out and challenge ourselves. We relied on each other and kept constant communication to ensure we were always on track.
 	</p>
 	<p>
-	
-	</p>
-	<p>
-	This has certainly been a good experience, learning how to provide a project report with its own progress chart. We would like to 
+	This has certainly been a good experience, learning how to provide a project report with its own progress chart. We would like to thank you for a wonderful semester and we wish you the best. 
 	</p>
 </body>
