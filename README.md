@@ -65,7 +65,7 @@ Pauses the s1 symbol waves stream.
 ***WIP***
 
 ### Showcasing Video
-<iframe width="X" height="Y" src="https://youtu.be/xRjBA49gyc8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/xRjBA49gyc8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ### Built With/Tools
