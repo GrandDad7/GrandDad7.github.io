@@ -3,7 +3,7 @@
 You can use find the link to GitHub Repository [here](https://github.com/GabrielGonzalez30/Synth). This site is meant to explain the documentation of what our language does.
 
 
-### Synth: Interactive Audio Processing Language
+## Synth: Interactive Audio Processing Language
 
 Built by:
  - Gabriel González
@@ -25,14 +25,14 @@ Built by:
         As stated before, this will be an interpreted programming language, indicating that it is high-level, as it carries some similarities from Python. While the person is editing/coding their sound (unless the user wants to create their own sound file), they would be able to hear the sound they are currently editing. As easily as they can grab their own existing sound file and edit it, they can do many edits such as adding reverb, reducing tone and pitch, and so much more.
     </p>
 </body>
-### Language Features
 
+## Language Features
 - Able to create, modify and store audio files (mp3, wav, etc) via sound synthesis and sound recording (called streams), as well as realtime playback of streams.
 - Able to create & modify effects, add effects to different streams.
 - Able to interface with MIDI controllers, as well as create a keyboard, soundboards, etc., using a computer keyboard
 
 
-### Code Samples
+## Code Samples
 ```markdown
 # Initializing Streams
 `InitStream s1 as Synthesizer`
@@ -76,10 +76,10 @@ Pauses the s1 symbol waves stream.
 ```
 
 
-### Showcasing Video
+## Showcasing Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xRjBA49gyc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Built With/Tools
+## Built With/Tools
 - Implementation Languages: C++ (gcc for Unix, Visual C++ for Windows)
 - Git and GitHub for source control
 - Synthesis Toolkit
