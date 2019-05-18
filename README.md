@@ -11,6 +11,9 @@ Built by:
  - José Túa
  - Jaime Torrens
 
+### Scope of the Project: What does the Language bring to the table?
+
+
 ### Language Features
 
 - Able to create, modify and store audio files (mp3, wav, etc) via sound synthesis and sound recording (called streams), as well as realtime playback of streams.
@@ -21,10 +24,10 @@ Built by:
 ### Code Samples
 ```markdown
 # Initializing Streams
-_`InitStream s1 as Synthesizer`_
+`InitStream s1 as Synthesizer`
 Intializes a stream of a Synthesizer instrument as any symbol, s1 in this case.
 
-_`InitStream s183 as Synthesizer`_
+`InitStream s183 as Synthesizer`
 Intializes a stream of a Synthesizer instrument as any symbol, s183 in this case.
 
 **Initializing an existing stream will empty that existing stream and render it empty.**
@@ -32,32 +35,32 @@ Intializes a stream of a Synthesizer instrument as any symbol, s183 in this case
 # Adding Waves to Stream
 **The following line will only happen if a Stream has been initialized.** 
 **Otherwise, this cannot occur.**
-1. _`As s1 setWave(Sine,600)`_
+1. `As s1 setWave(Sine,600)`
 In the s1 stream, creates a Sine wave with a frequency of 600.
 
-2. _`As s1 setWave(Sine)`_
+2. `As s1 setWave(Sine)`
 In the s1 stream, creates a Sine wave with a default frequency of 200.
 
-3. _`As s183 setWave(Saw)`_
+3. `As s183 setWave(Saw)`
 In the s183 stream, creates a Saw wave with a default frequency of 200.
 
-4. _`As s1 setWave(Square,250)`_
+4. `As s1 setWave(Square,250)`
 In the s1 stream, creates a Square wave with a frequency of 250.
 
 # Changing Frequencies of Waves
-1. _`As s1 setFrequency(100)`_
+1. `As s1 setFrequency(100)`
 In the s1 stream, frequencies are changed to 100 as parameters imply.
 
 # Playing Streams
 **If no streams have been initialized, this will return an exception.**
 **Streams must exist for this to work.**
-1. _`play(s1)`_
+1. `play(s1)`
 Plays the s1 symbol waves stream.
 
 #Pausing Streams
 **If no streams have been initialized, this will return an exception.**
 **Streams must exist for this to work.**
-1. _`pause(s183)`_
+1. `pause(s183)`
 Pauses the s1 symbol waves stream.
 ```
 
