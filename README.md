@@ -13,7 +13,7 @@ Built by:
 
 ### Scope of the Project: What does the Language bring to the table?
 ## Overview
-<div style=“margin: 0 16px”> 
+<body>
     <p>
 		 The text in this block pitch fixed font and preserves line breaks and spaces The purpose of this project is to create an interactive audio synthesizer and music production software encapsulated in a interpreted programming language. The main motivation to develop this language is to help programmers (especially game developers, web developers; generally programmers concerned with UI/UX) to create distinct and original sounds and music for their projects in a way that they are familiar with. 
     </p>  
@@ -24,7 +24,7 @@ Built by:
     <p>
         As stated before, this will be an interpreted programming language, indicating that it is high-level, as it carries some similarities from Python. While the person is editing/coding their sound (unless the user wants to create their own sound file), they would be able to hear the sound they are currently editing. As easily as they can grab their own existing sound file and edit it, they can do many edits such as adding reverb, reducing tone and pitch, and so much more.
     </p>
-</div>
+</body>
 
 ### Language Features
 
