@@ -84,3 +84,17 @@ Pauses the s1 symbol waves stream.
 - Synthesis Toolkit
 	- STK is a set of open source audio signal processing and algorithmic synthesis classes written in the C++ programming language.
 	- The STK can be found [here](https://ccrma.stanford.edu/software/stk/).
+
+
+## Conclusion
+<body>
+	<p>
+	Working together to form a project in a language that half of the group is not too skilled in was a challenge (to those not knowledgeable) but it was a feat nonetheless. We did choose C++ because all other projects would be implemented in languages that they are mostly familiar with, like Python (or even Scala in some cases as it seemed.) We had decided to not take the easy way out and challenge ourselves. 
+	</p>
+	<p>
+	
+	</p>
+	<p>
+	This has certainly been a good experience, learning how to provide a project report with its own progress chart. We would like to 
+	</p>
+</body>
