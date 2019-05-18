@@ -64,6 +64,10 @@ Pauses the s1 symbol waves stream.
 ### Requirements
 ***WIP***
 
+### Showcasing Video
+<iframe width="X" height="Y" src="https://www.youtube.com/watch?v=xRjBA49gyc8&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 ### Built With/Tools
 - Implementation Languages: C++ (gcc for Unix, Visual C++ for Windows)
 - Git and GitHub for source control
