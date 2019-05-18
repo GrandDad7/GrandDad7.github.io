@@ -11,8 +11,8 @@ Built by:
  - José Túa
  - Jaime Torrens
 
-### Scope of the Project: What does the Language bring to the table?
-## Overview
+## Scope of the Project: What does the Language bring to the table?
+### Overview
 <body>
     <p>
 		 The text in this block pitch fixed font and preserves line breaks and spaces The purpose of this project is to create an interactive audio synthesizer and music production software encapsulated in a interpreted programming language. The main motivation to develop this language is to help programmers (especially game developers, web developers; generally programmers concerned with UI/UX) to create distinct and original sounds and music for their projects in a way that they are familiar with. 
